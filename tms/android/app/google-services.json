@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043353958516",
+    "project_id": "maamfizza-c4565",
+    "storage_bucket": "maamfizza-c4565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043353958516:android:66edd95426bb1cc7f03921",
+        "android_client_info": {
+          "package_name": "com.example.tmss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUVFXBnjeDFfZazL7Gu4GuC2V0jcBBTLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
