@@ -2,7 +2,7 @@
 # Flutter Task Management System
 
 Welcome to the Flutter Task Management System repository! This project is a feature-rich, intuitive application designed to help users organize and manage their tasks efficiently. Built using the Flutter framework, this app offers a seamless and responsive user experience across multiple platforms, including iOS, Android, and the web.
-
+![Demo](https://github.com/zainasif123/Task-Management-System/blob/main/tms/images/Neutral%20Beige%20Aesthetic%20Fashion%20Mockup%20Instagram%20Story.png)
 ## Features
 
 - **Task Creation and Management**: Easily create, edit, and delete tasks. Organize tasks into different categories and prioritize them based on urgency and importance.
